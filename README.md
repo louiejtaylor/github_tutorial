@@ -1,16 +1,21 @@
-# Github Tutorial
+# Git/Github Tutorial
 ### Bushman Lab Code Review, Dec 14, 2016 (First Edition)
 ### Erik's Fireside Programming Chats, Feb 24, 2019 (Second Edition)
 
 ## Introduction
 
-Contributing to a project on Github gives you the chance to get involved with a project's development, help the developers, and get your issues and bugs resolved faster. It also helps further open source software, which powers most of the academic software we use here. Also it's fun. 
+Contributing to a project on Github gives you the chance to get involved with a project's development, help the developers, and get your issues and bugs resolved faster. It also helps further open source software, which powers most of the academic software we use. Also it's fun. 
 
 The instructions below will get you started on the basics of contributing to an existing software project.
 
 ### 00. Set up your SSH keys
 
-Follow the instructions [here](https://help.github.com/articles/generating-an-ssh-key/) to set up SSH with Github. It's worth the effort and makes it so you don't have to always type your username and password on the command line. I would recommend doing it from the computer you'll be developing on, usually one of our servers.
+1. Introduce yourself to Git (if you've never used Git on this computer before): 
+    ```
+    $ git config --global user.name "John Doe"
+    $ git config --global user.email johndoe@example.com
+    ```
+2. Set up SSH keys. Follow the instructions [here](https://help.github.com/articles/generating-an-ssh-key/) to set up SSH with Github. It's worth the effort and makes it so you don't have to always type your username and password on the command line. I would recommend doing it from the computer you'll be developing on, usually one of our servers.
 
 ### 01. Forking an existing directory
 
