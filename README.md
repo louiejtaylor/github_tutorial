@@ -1,6 +1,7 @@
 # Git/Github Tutorial
 ### Bushman Lab Code Review, Dec 14, 2016 (First Edition)
 ### Erik's Fireside Programming Chats, Feb 24, 2019 (Second Edition)
+### Louis Teaches Github, Dec 20, 2019 (Third Edition)
 
 ## Introduction
 
